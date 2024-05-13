@@ -1,0 +1,9 @@
+{"level": "info", "log_string": "Sample info log entry 1", "timestamp": "2024-05-13T17:38:23.411642+00:00", "metadata": {"source": "log5.log"}}
+{"level": "info", "log_string": "Sample info log entry 2", "timestamp": "2024-05-13T17:38:23.411642+00:00", "metadata": {"source": "log5.log"}}
+{"level": "error", "log_string": "Failed to connect", "timestamp": "2024-05-13T17:38:23.411642+00:00", "metadata": {"source": "log5.log"}}
+{"level": "error", "log_string": "Internal server error", "timestamp": "2024-05-13T17:38:23.411642+00:00", "metadata": {"source": "log5.log"}}
+{"level": "success", "log_string": "Operation successful", "timestamp": "2024-05-13T17:38:23.411642+00:00", "metadata": {"source": "log5.log"}}
+{"level": "info", "log_string": "Sample log entry with custom timestamp", "timestamp": "2023-09-14T12:30:00Z", "metadata": {"source": "log5.log"}}
+{"level": "error", "log_string": "Another failed attempt", "timestamp": "2023-09-15T10:45:00Z", "metadata": {"source": "log5.log"}}
+{"level": "info", "log_string": "Sample log entry 3", "timestamp": "2024-05-13T17:38:23.411642+00:00", "metadata": {"source": "log5.log"}}
+{"level": "warning", "log_string": "Warning: Resource usage high", "timestamp": "2024-05-13T17:38:23.411642+00:00", "metadata": {"source": "log5.log"}}

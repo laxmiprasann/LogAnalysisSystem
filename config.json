@@ -1,0 +1,27 @@
+{
+    "log_files": [
+        "log1.log",
+        "log2.log",
+        "log3.log",
+        "log4.log",
+        "log5.log",
+        "log6.log",
+        "log7.log",
+        "log8.log",
+        "log9.log"
+    ],
+    "log_ingestor": {
+        "log_files": [
+            "log1.log",
+            "log2.log",
+            "log3.log",
+            "log4.log",
+            "log5.log",
+            "log6.log",
+            "log7.log",
+            "log8.log",
+            "log9.log"
+        ],
+        "logging_level": "INFO"
+    }
+}
